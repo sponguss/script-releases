@@ -1,0 +1,16 @@
+**Script**: Doors v4 by OminousVibes (<<https://v3rmillion.net/showthread.php?tid=1184088>)
+**Description**: Legit cheat for the new Doors game <https://www.roblox.com/games/6516141723/DOORS>
+
+__**Features**__
+    `Rush/Ambush ESP, Figure ESP, Door ESP, Wardrobe ESP, Interactable ESP (Books, Levers, Keys), Obtainable ESP (Vitamins, Lockpicks, Lighter)`
+    `Speed Modification, Body Glow, Remove Ambience`
+    `Code Parser (Room 50), Electrical Breaker Spoof (Always Correct), Always win heartbeat game (Room 50 & 100), Anti-Screech (No Damage)`
+    `Event Notifiers`
+        `Notifies you 3 rooms before an event occurs`
+        `Notifies you when Screech, Ambush or Rush spawn`
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/main.lua"))()
+```
+
+**Source can be obtained at <https://github.com/sponguss/script-releases/blob/main/releases/doors/source.lua>**
